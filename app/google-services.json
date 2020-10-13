@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112343284046",
+    "firebase_url": "https://safeparcel-70f1d.firebaseio.com",
+    "project_id": "safeparcel-70f1d",
+    "storage_bucket": "safeparcel-70f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112343284046:android:61a614bcd9c74ce1b4061f",
+        "android_client_info": {
+          "package_name": "com.inopetech.safeparcel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112343284046-1s18hbjtpqpnsr6kspqppobcutblp481.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inopetech.safeparcel",
+            "certificate_hash": "d8d9a2b18e2b084ba2a1a5e18e8083185bfe684a"
+          }
+        },
+        {
+          "client_id": "112343284046-gqn2png7ubem5c49k5omm9si50eb41l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63TRdOQe-smYrGfsWcOzxIm7meFvvBlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112343284046-gqn2png7ubem5c49k5omm9si50eb41l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
